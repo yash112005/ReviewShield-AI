@@ -1,3 +1,13 @@
+title: ReviewShield AI
+emoji: 🛡️
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.37.0"
+python_version: "3.10"
+app_file: app.py
+pinned: false
+
 # 🛡️ ReviewShield AI
 
 **ReviewShield AI** is an AI-powered Fake Review Detection system that uses **Natural Language Processing (NLP)** and **Machine Learning** to identify whether a customer review is genuine or fake. The project helps improve online review authenticity, protect consumers from deceptive feedback, and assist businesses in maintaining trustworthy platforms.
