@@ -32,9 +32,13 @@
 
 ```
 ReviewShield-AI/
-│── ReviewShield_AI.ipynb
-│── README.md
+│── app.py
+│── fakenews.ipynb
+│── review_model.pkl
+│── tfidf_vectorizer.pkl
+│── fake_review_demo_dataset.csv
 │── requirements.txt
+│── README.md
 
 ```
 
