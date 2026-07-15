@@ -64,10 +64,10 @@ This project uses two datasets:
 - ✅ Trained on the **40,000+ Kaggle dataset** using **Google Colab**.
 
 **Google Colab Notebook:**  
-🔗 *Paste your Colab link here*
+🔗 https://colab.research.google.com/drive/10Jrbhae4eD6JgnQ8C_MG_MZAH-pnXlIW?usp=sharing
 
 **Kaggle Dataset:**  
-🔗 *Paste the official Kaggle dataset link here*
+🔗 https://www.kaggle.com/datasets/mexwell/fake-reviews-dataset
 
 ---
 
