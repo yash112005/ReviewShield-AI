@@ -1,8 +1,5 @@
-numpy
+streamlit
 pandas
+joblib
+scipy
 scikit-learn
-nltk
-seaborn
-jupyter-notebook
-
-
