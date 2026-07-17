@@ -113,6 +113,12 @@ Or download the notebook from this repository and upload it to Google Colab.
 
 ---
 
+## 🌐 Live Demo
+
+🔹 **Try the app here:**
+
+- 🎈 Streamlit: https://reviewshield-ai-xqvjyxp3qwvp3wfdouyz6b.streamlit.app/
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
